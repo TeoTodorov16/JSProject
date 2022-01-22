@@ -27,11 +27,3 @@ A maintainable solution should have at minimum:
 ● Code should be testable and unit tested
 Optional
 Provide the functionality and instructions for deploying the solution using any cloud provider. Nordcloud is a cloud company so we appreciate the display of cloud skills.
-Submission
-After you have finished the assignment:
-1. Push the assignment to e.g. Github or Gitlab (make sure the repository is private!)
-2. Use the following accounts to share it with us
-Github: ncrecruitment
-Gitlab: ncrecruitment
-3. Send an email (with the link to your repository) to your Nordcloud contact and mention
-that you have finished your assignment

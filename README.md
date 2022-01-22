@@ -21,7 +21,9 @@ It can be in the form of:
 Requirements
 Please make this project as complete as you think it should be to be maintainable in the long term by more than one maintainer.
 A maintainable solution should have at minimum:
+
 ● Instructions on how to run the solution
+
 ● Code should be testable and unit tested
 Optional
 Provide the functionality and instructions for deploying the solution using any cloud provider. Nordcloud is a cloud company so we appreciate the display of cloud skills.
